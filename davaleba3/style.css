@@ -1,0 +1,79 @@
+body{
+    background-color: white;
+}
+.container1{
+    position: absolute;
+    width: 1337px;
+    height: 19px;
+    color: #000000;
+    text-align:center;
+}
+.container2>img{
+    position: absolute;
+    width: 258px;
+    height: 258px; 
+}
+.container3{
+    position: absolute;
+    width: 1364px;
+    height: 99px;
+    color: #000000;
+    text-align: center;
+}
+.container4>img{
+    position: absolute;
+    width: 258px;
+    height: 258px;
+}
+.container5{
+    position: absolute;
+    width: 1337px;
+    height: 19px;
+    color: #000000;
+    text-align: center;
+}
+.container6{
+    position: absolute;
+    width: 1364px;
+    height: 99px;
+    color: #000000;
+    text-align: center;
+}
+.container7{
+    position: absolute;
+    width: 494px;
+    height: 19px;
+    color: #000000;
+    text-align: left;
+}
+.container8>img{
+    position: absolute;
+    width: 237.95px;
+    height: 184.57px;
+}
+.container9{
+    position: absolute;
+    width: 1363px;
+    height: 202px;
+    color:#000000;
+    text-align: left;
+}
+.container10{
+    position: absolute;
+    width: 494px;
+    height: 19px;
+    text-align: left;
+    color:#000000;
+}
+.container11>img{
+    position: absolute;
+    width: 323px;
+    height: 148.38px;
+}
+.container12{
+    position: absolute;
+    width: 1323px;
+    height: 167px;
+    text-align:center;
+    color:#000000;
+}
